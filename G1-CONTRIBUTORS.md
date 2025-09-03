@@ -4,4 +4,8 @@
 - Revilleza, Frederick (**@juantojuan**)
 - Estrera, Michaela Ma. Alexa D. (@michaela-es)
 - Abel, Zydric (**@zydric**)
+<<<<<<< HEAD
 - Canonigo, Johndaniel (**@Kaigekii**)
+=======
+- Canonigo, Johndaniel (**@Kaigekii**)
+>>>>>>> 90878f1bbdbdf76d29d431d1cf29cc7448e7e53c
